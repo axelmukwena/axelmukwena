@@ -12,7 +12,7 @@ As a developer with a determined love to create new things, with software applic
 
 I am open for collaboration, employment or others. Reach me at axel@stoiclab.com
 
-Do explore my repositories, some hosted at the [Stoiclab Repository](https://github.com/stoiclb/)
+Do explore my repositories, some hosted at the [Stoiclab Repository](https://github.com/stoiclb/). A number of them are also private.
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axelmukwena&show_icons=true&bg_color=0D1117&text_color=c9d1d9&&&count_private=true&include_all_commits=true" />
