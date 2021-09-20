@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=axelmukwena.axelmukwena)
 
-I am a fresh graduate full-stack software developer and partly Data Scientist.
+I am a junior full-stack developer and partly Data Scientist.
 
 As a developer with a determined love to create new things, with software applications there’s always something new to discover. I enjoy using my attention to detail to help solve problems sustainably.
 
