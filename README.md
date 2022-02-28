@@ -6,7 +6,7 @@ I am a contributor at [Open Source Namibia](https://github.com/opennamibia) 🚀
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/axelmukwena)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/axelmukwena)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=axelmukwena.axelmukwena)
+### Glad to see you here! &nbsp;
 
 I am a junior full-stack developer and partly Data Scientist. My favourite languages are Python, Ruby and Javascript.
 
