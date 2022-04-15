@@ -12,7 +12,7 @@ I am a junior full-stack developer and partly Data Scientist. My favourite langu
 
 As a developer with a determined love to create new things, with software applications there’s always something new to discover. I enjoy using my attention to detail to help solve problems sustainably.
 
-I am open for collaboration, employment or others. Reach me at axel@stoiclab.com
+I am open for collaboration, employment or others. Reach me at axel@meyabase.com
 
 Do explore my repositories, some hosted at the [Stoiclab](https://github.com/stoiclb/). A number of them are also private.
 
