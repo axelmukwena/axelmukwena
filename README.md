@@ -14,6 +14,6 @@ As a developer with a determined love to create new things, with software applic
 
 I am open for collaboration, employment or others. Reach me at axel@meyabase.com
 
-Do explore my repositories, some hosted at the [Stoiclab](https://github.com/stoiclb/). A number of them are also private.
+Do explore my repositories, some hosted at the [Meyabase](https://github.com/meyabase/). A number of them are also private.
 
 
