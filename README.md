@@ -17,6 +17,6 @@ I am open for collaboration, employment or others. Reach me at axel@meyabase.com
 Do explore my repositories, some hosted at the [Meyabase](https://github.com/meyabase/). A number of them are also private.
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axelmukwena&show_icons=true&bg_color=0D1117&text_color=c9d1d9&&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axelmukwena&show_icons=true&bg_color=0D1117&text_color=c9d1d9&&&count_private=true&include_all_commits=" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelmukwena&exclude_repo=KNN-Image-Classification&show_icons=true&bg_color=0D1117&text_color=c9d1d9&layout=compact&langs_count=8"/>
 </p>
