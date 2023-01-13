@@ -8,7 +8,7 @@ I am a contributor at [Open Source Namibia](https://github.com/opennamibia) 🚀
 
 ### Glad to see you here! &nbsp;
 
-I am a Software Engineer. My favourite languages are Python, Ruby and Javascript. Just added Go.
+I am a Software Engineer at [@DAAily](https://github.com/DAAily) and Open Sourcer at [@Meyabase](https://github.com/meyabase/). My favourite languages are Python, TypeScript and Go.
 
 As a developer with a determined love to create new things, with software applications there’s always something new to discover. I enjoy using my attention to detail to help solve problems sustainably.
 
